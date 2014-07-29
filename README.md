@@ -1,10 +1,10 @@
-# leintemp
+# clj-template
 
 Template to (very basic) clojure deployment
 
 ## Usage
 
-FIXME
+Basic settings to heroku deployment
 
 ## License
 

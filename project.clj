@@ -1,4 +1,4 @@
-(defproject leintemp "0.1.0-SNAPSHOT"
+(defproject cljtemplate "0.1.0-SNAPSHOT"
   :description "It is no measure of health to be well adjusted to a profoundly sick society"
   :url "http://github.com/saiberz"
   :license {:name "Eclipse Public License"
@@ -11,6 +11,6 @@
                  [enlive "1.1.5"]
                  [cljs-ajax "0.2.6"]
                  [hiccup "1.0.5"]]
-  :main ^:skip-aot leintemp.app )
+  :main ^:skip-aot cljtemplate.app )
 
 

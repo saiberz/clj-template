@@ -1,4 +1,4 @@
-# Introduction to leintemp
+# Introduction to clj-template
 
 TODO: write [great documentation](http://jacobian.org/writing/what-to-write/)
 
